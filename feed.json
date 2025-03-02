@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Maharashtra Software Club",
+    "description": "",
+    "home_page_url": "https://mscpune.github.io",
+    "feed_url": "https://mscpune.github.io/feed.json",
+    "user_comment": "",
+    "icon": "https://mscpune.github.io/media/website/Untitled-1-Recovered.png",
+    "author": {
+        "name": "Prathmesh Chavan"
+    },
+    "items": [
+    ]
+}
